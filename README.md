@@ -8,7 +8,7 @@ O deploy da aplicação pode ser feito de 2 maneiras:
   - mvn eclipse:eclipse  
   - mvn clean package
     
-- Copiar o arquivo .war (target/desafio.war) para o a pasta webapps do tomcat (tomcat/webapps)
+- Copiar o arquivo desafio.war (target/desafio.war) para o a pasta webapps do tomcat (tomcat/webapps)
 
 2 - Via Docker:
 
